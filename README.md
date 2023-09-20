@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&fontcolor=fffff&color=000000height=100&section=header&text=Hi%20there&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=soft&fontcolor=fffff&color=ff7f00&height=100&section=header&text=Hi%20there&fontSize=50&fontAlign=50)
 
 # 0nejean 
 
