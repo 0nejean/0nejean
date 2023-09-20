@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hi%20there&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontcolor=000000&height=100&section=header&text=Hi%20there&fontSize=30&fontAlign=70)
 
 # 0nejean Profile
 
